@@ -1,4 +1,4 @@
 # Deep-Learning
 
-Digit classification using MNIST dataset.
+Building Neural Networks Models using TensorFlow.
 
